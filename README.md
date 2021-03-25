@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# HTML & CSS PROJECT 2 RESPONSIVE DESIGN
+# TNW-Page-Clone
 
-> Microverse second project about using HTML&CSS features and applying them to make a responsive web design
+This project consists of a reproduction of the TNW homepage. It displays the text, images and video of the original on the given day. Advertisements and many of the interactive elements have been left out.
 
 ![screenshot](https://user-images.githubusercontent.com/70416006/105385122-9a9d5d80-5bd8-11eb-99f3-b6aab5c68b02.png)
 
