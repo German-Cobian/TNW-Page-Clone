@@ -13,8 +13,8 @@ Also we worked with media queries to make it RESPONSIVE
 
 ## Built With
 
-- HTML & CSS
-- Media queries
+- HTML
+- CSS
 
 ## Live Demo
 
@@ -24,14 +24,15 @@ Also we worked with media queries to make it RESPONSIVE
 
 👤 **German Cobian**
 
-- GitHub: [@githubhandle](https://github.com/German-Cobian)
-- Twitter: [@twitterhandle](https://twitter.com/GermanCobian3)
+- GitHub: [@German-Cobian](https://github.com/German-Cobian)
+- Twitter:  [@GermanCobian3](https://twitter.com/GermanCobian3)
+- LinkedIn: [@german-cobian](https://www.linkedin.com/in/german-cobian)
 
 👤 **Diego Hernández**
 
-- GitHub: [@githubhandle](https://github.com/Diegodsha)
-- Twitter: [@twitterhandle](https://twitter.com/diegohdezchimo)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/diegoshdezaguilar/)
+- GitHub: [@Diegodsha](https://github.com/Diegodsha)
+- Twitter: [@diegohdezchimo](https://twitter.com/diegohdezchimo)
+- LinkedIn: [@diegoshdezaguilar](https://www.linkedin.com/in/diegoshdezaguilar/)
 
 ## 🤝 Contributing
 
