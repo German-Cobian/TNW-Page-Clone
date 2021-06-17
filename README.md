@@ -23,7 +23,7 @@ In this project we implemented HTML tags, CSS and its associated tools (such as 
 To get a local copy up and running follow these simple example steps.
 
 * Clone this repo on your local machine by running `git clone git@github.com:German-Cobian/TNW-Page-Clone.git`
-* cd into the `TNW-Page-Clone` folder
+* `cd` into the `TNW-Page-Clone` folder you just cloned
 
 ## Authors
 
